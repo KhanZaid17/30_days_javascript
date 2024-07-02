@@ -116,8 +116,8 @@
 // console.log(string.search("very"));
 
 
-let numOne = 4;
-let numTwo = 4;
+let numOne = 5;
+let numTwo = 9;
 
 let sum = numOne + numTwo;
 let diff = numOne - numTwo;
